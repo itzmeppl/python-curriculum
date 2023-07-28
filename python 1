@@ -15,7 +15,7 @@ Simple calculations like...
 Complex calculations like...
 	- Weather predictions
 	- cracking encryption schemes
-
+----------------------------------------------------------------
 What is Python?
 	- Code resembles the English language which 
 	- computers understand python through a Python interpreter
@@ -25,4 +25,4 @@ Why Python?
 	- Easy to read
 	- All high level languages (C, C++ and Java) are very similar to each other
 	- Requires fewer lines of code to perform same task compared to languages like Javascript
-	
+
